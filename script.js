@@ -55,7 +55,7 @@ for(i=0; i<fruits.length;i++) {
 
 
 console.log(`***Winter Sports***\n${winter_sports.join("")}\n***Summer Sports***\n${summerSports.join("")} 
-***fruits***\n${fruits.join("")}`);
+***Fruits***\n${fruits.join("")}`);
 
 document.write(`***Winter Sports***<br>${winter_sports.join("<br>")}<br><br>***Summer Sports***<br>${summerSports.join("<br>")} 
-<br><br>***fruits***<br>${fruits.join("<br>")}`);
+<br><br>***Fruits***<br>${fruits.join("<br>")}`);
